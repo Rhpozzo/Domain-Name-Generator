@@ -1,0 +1,12 @@
+.title{
+    display: flex;
+    justify-content: center;
+    margin: 200px 0 0 0;
+}
+
+
+.result h2{
+    display: flex;
+    justify-content: center;
+}
+
